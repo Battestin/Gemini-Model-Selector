@@ -33,3 +33,7 @@ Python script that dynamically selects the appropriate Google Gemini model ("gem
 - Token limit for flash model is 3000; if exceeded, switches to pro  
 - Make sure the input file path is correct and accessible  
 - Prototype level: validate outputs before any production use
+
+## 📄 License
+
+MIT
