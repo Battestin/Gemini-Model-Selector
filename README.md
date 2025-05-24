@@ -1,4 +1,4 @@
-# Model Switcher
+# Gemini Model Switcher
 
 Python script that dynamically switches the appropriate Google Gemini model ("gemini-1.5-flash" or "gemini-1.5-pro") based on the token count of the input data. It analyzes customer purchase data and generates a concise customer profile using the Gemini API.
 
